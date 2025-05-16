@@ -1,29 +1,25 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Kevin Andres Turizo Tamara
+**Profesión:** Tecnologo en Analisis de datos
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Teléfono:** +57 323 2457819
+- **Email:** [ke2812007@gmail.com](mailto:ke2812007@gmail.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
-
+### **SENA** _(2025 - Actualidad)_
+- programador.
+- 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### *Tecnico SENA** _(2023 - 2024)_
+- Titulo de bachiller y titulo tecnico en integracion de contenidos digitales 
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Programacion Basica con HTML**
+- **Competencias blandas para la vida**
+- **Manipulacion de equipos**
 
 ---
 
